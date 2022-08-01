@@ -1,0 +1,18 @@
+[submodule "uni-app-vite-vue3-tailwind-vscode-template"]
+	path = uni-app-vite-vue3-tailwind-vscode-template
+	url = https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template.git
+[submodule "uni-app-vue3-tailwind-vscode-template"]
+	path = uni-app-vue3-tailwind-vscode-template
+	url = https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template.git
+[submodule "uni-app-vue2-tailwind-vscode-template"]
+	path = uni-app-vue2-tailwind-vscode-template
+	url = https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template.git
+[submodule "weapp-native-mina-tailwindcss-template"]
+	path = weapp-native-mina-tailwindcss-template
+	url = https://github.com/sonofmagic/weapp-native-mina-tailwindcss-template.git
+[submodule "uni-app-vue2-tailwind-hbuilder-template"]
+	path = uni-app-vue2-tailwind-hbuilder-template
+	url = https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template.git
+[submodule "uni-app-vue3-tailwind-hbuilder-template"]
+	path = uni-app-vue3-tailwind-hbuilder-template
+	url = https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template.git
